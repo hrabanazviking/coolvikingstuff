@@ -1,0 +1,1 @@
+- Never remove, delete, or reduce any information from this particular repo! The human Volmarr keeps lots of weird random stuff in this repo, and that is according to his wyrd designs! 
