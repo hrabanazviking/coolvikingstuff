@@ -89,6 +89,7 @@ https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.htm
 [R7] OWASP Cheat Sheet, *Secure AI Model Ops Cheat Sheet*  
 https://cheatsheetseries.owasp.org/cheatsheets/Secure_AI_Model_Ops_Cheat_Sheet.html
 
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/6ba83f82-8dec-4d49-85ab-36348802056d.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/6ba83f82-8dec-4d49-85ab-36348802056d.jpg)
 
 ## Expansion pack added
 
