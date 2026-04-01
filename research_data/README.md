@@ -34,6 +34,8 @@ Recent public reporting says Anthropic accidentally exposed a source map in Clau
 7. **Release engineering is security.**
    Debug files, open artifact stores, hardcoded secrets, and bad dependency hygiene can undo otherwise solid architecture. [R1][R2][R7]
 
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2009_28_17%20PM.png](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2009_28_17%20PM.png)
+
 ## Included files
 
 - `01_clean_room_protocol.md`
