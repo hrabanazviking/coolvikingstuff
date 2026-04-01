@@ -1,3 +1,5 @@
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/211a251a-b23d-4d38-a63d-325fcbcd3c10.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/211a251a-b23d-4d38-a63d-325fcbcd3c10.jpg)
+
 # Clean-Room Research Pack for Agentic Systems
 
 ## Purpose
