@@ -160,3 +160,5 @@ These files add:
 - a deterministic persona compiler with precedence rules and packet budgets
 - a typed MicroRAG pipeline for smaller models with contradiction-aware packet assembly
 - an eval harness for false memory, canon drift, code-truth integrity, and prompt injection resistance
+
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/efda5776-58ee-41fb-a53a-995758e03022.png](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/efda5776-58ee-41fb-a53a-995758e03022.png)
