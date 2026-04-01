@@ -26,6 +26,16 @@
 | 08 | `08_utils_services_patterns.md` | 564 utils catalogued, services deep-dive, performance patterns, Rust runtime utilities |
 | 09 | `09_theory_of_mind_personality.md` | ToM architecture synthesis, companion loop design, Wyrd Matrix thread model, circumplex affect model |
 | 10 | `10_cyber_viking_applications.md` | All patterns mapped to your projects: Sigrid, NorseSagaEngine, MindSpark, OpenClaw rune skill |
+| 11 | `11_rust_runtime_deep_dive.md` | Session JSON format, ConversationRuntime generics, turn loop (max 16 iter), permission policy, pricing |
+| 12 | `12_mcp_protocol_architecture.md` | JSON-RPC 2.0 wire format, all MCP methods, 6 transport types, OAuth flow, Sigrid-as-MCP blueprint |
+| 13 | `13_api_streaming_caching_cost.md` | MessageRequest structure, 4 token types, cache break-even, streaming event sequence, cost optimization |
+| 14 | `14_config_settings_feature_flags.md` | 3-tier config hierarchy, hooks schema (6 events), feature flags, settings keys, constants reference |
+| 15 | `15_norse_mythology_data_structures.md` | Nine Worlds graph, all 24 Elder Futhark runes as dataclasses, Norn architecture, deity database, Yggdrasil |
+| 16 | `16_ai_companion_psychology.md` | Circumplex affect, attachment theory, SDT, ToM levels, Gottman repair, Dual Process, SigridMind class |
+| 17 | `17_local_model_integration.md` | LiteLLM routing, Ollama model tiers, Axolotl fine-tune config, TTS stack, Norse pronunciation dictionary |
+| 18 | `18_cybersecurity_patterns.md` | 6-layer bash security, injection defenses, memory tamper detection, encryption at rest, audit logging |
+| 19 | `19_prompt_engineering_cookbook.md` | 15 recipes: identity anchor, structured output tool, mode switching, anti-drift, Norse voice register |
+| 20 | `20_wyrd_protocol_ecs_worldmodel.md` | ECS world model, all component definitions, WyrdMatrix, OrlögSystem, initialize_sigrid() entity |
 
 ---
 
