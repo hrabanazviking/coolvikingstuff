@@ -40,6 +40,12 @@
 | 22 | `22_norsesagaengine_agent_architecture.md` | NSE as multi-agent coordinator: NarrativeAgent, DialogueAgent, OracleAgent, SkaldAgent, EventSystem |
 | 23 | `23_mindspark_phase7_8_architecture.md` | MindSpark Phase 7 (setup wizard, backend adapters, chat interface) + Phase 8 (diagnostics, circuit breaker) |
 | 24 | `24_master_synthesis_reference.md` | Master reference: decision tables, mode guide, security checklist, anti-patterns, rune lookup, file structure |
+| 25 | `25_openclaw_skill_framework_deep_dive.md` | OpenClaw .cfs manifest format, skill anatomy, executor, registry, Claude Code bridge, dev workflow |
+| 26 | `26_full_conversation_loop_architecture.md` | End-to-end message flow: 11 steps from input to persistence, context budget, timing targets, error handling |
+| 27 | `27_norse_calendar_seasonal_system.md` | Full Eight Spokes calendar, SacredTide dataclasses, affect integration, Norse months, tide narrative events |
+| 28 | `28_emotional_event_library.md` | Catalogued affect events (6 categories), EventDispatcher, triggers, voice notes, forbidden expressions |
+| 29 | `29_testing_ai_companion_systems.md` | 7-layer test architecture: unit, integration, prompt, persona, regression, adversarial, E2E smoke tests |
+| 30 | `30_runeforgeai_finetuning_pipeline.md` | Data strategy, ShareGPT format, quality rubric, Axolotl config, GGUF export, Ollama integration |
 
 ---
 
