@@ -64,6 +64,8 @@ Use these docs as:
 - Record **problem → pattern → tradeoffs → original implementation**.
 - Prefer fresh experiments, benchmarks, and adversarial tests over imitation.
 
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/Gemini_Generated_Image_ib7m8sib7m8sib7m.png](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/Gemini_Generated_Image_ib7m8sib7m8sib7m.png)
+
 ## Source notes
 
 [R1] The Verge, *Claude Code leak exposes a Tamagotchi-style 'pet' and an always-on agent* (Mar 31, 2026)  
