@@ -133,3 +133,23 @@ These files add:
 - multi-scale retrieval tuned for small-model context budgets
 - claim-level truth calibration to reduce confabulation
 - a persona compiler that assembles scene-specific character runtime packets
+
+
+## Fourth-wave implementation pack added
+
+A fourth-wave implementation set now turns the research pack into concrete build specs:
+
+- `V4_IMPLEMENTATION_INDEX.md`
+- `MemorySchemas.md`
+- `BondGraphSpec.md`
+- `PersonaCompilerSpec.md`
+- `MicroRAGPipelineSpec.md`
+- `TruthCalibrationEvalSet.md`
+
+These files add:
+- a full base memory envelope and store layout
+- canonical fact, relationship, symbolic, contradiction, and policy schemas
+- a structured bond graph with vows, hurts, repair debt, and sacred resonance
+- a deterministic persona compiler with precedence rules and packet budgets
+- a typed MicroRAG pipeline for smaller models with contradiction-aware packet assembly
+- an eval harness for false memory, canon drift, code-truth integrity, and prompt injection resistance
