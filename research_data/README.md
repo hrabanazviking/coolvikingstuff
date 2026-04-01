@@ -1,5 +1,7 @@
 ![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/211a251a-b23d-4d38-a63d-325fcbcd3c10.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/211a251a-b23d-4d38-a63d-325fcbcd3c10.jpg)
 
+---
+
 # Clean-Room Research Pack for Agentic Systems
 
 ## Purpose
@@ -13,9 +15,17 @@ This pack is **not** a copy of proprietary source code, and it is **not** intend
 - OWASP guidance for LLM prompt injection, agent security, and secure AI model operations
 - independent architectural synthesis tailored to memory-heavy and simulation-heavy projects
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/223a62ea-351b-4826-9a64-64ba6d273903.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/223a62ea-351b-4826-9a64-64ba6d273903.jpg)
+
+---
+
 ## Why this matters
 
 Recent public reporting says Anthropic accidentally exposed a source map in Claude Code v2.1.88, allowing broad reconstruction of a large portion of the CLI/app TypeScript code. Anthropic said it was a packaging error rather than a breach, and that no customer data or credentials were exposed. Public reporting also says people inspecting the exposed material discussed memory architecture, feature flags, and unlaunched agent-like features. Rather than reproducing internals, this pack extracts the **useful classes of ideas** worth reimagining in original systems. [R1][R2][R3]
+
+---
 
 ## Core lessons worth carrying forward
 
@@ -34,7 +44,11 @@ Recent public reporting says Anthropic accidentally exposed a source map in Clau
 7. **Release engineering is security.**
    Debug files, open artifact stores, hardcoded secrets, and bad dependency hygiene can undo otherwise solid architecture. [R1][R2][R7]
 
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2009_28_17%20PM.png](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2009_28_17%20PM.png)
+
+---
 
 ## Included files
 
@@ -46,6 +60,12 @@ Recent public reporting says Anthropic accidentally exposed a source map in Clau
 - `06_hooks_subagents_and_observability.md`
 - `07_project_backlog_for_memory_heavy_ai_systems.md`
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/c2d35fa1-6983-4b25-82ef-3b707b968d3f.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/c2d35fa1-6983-4b25-82ef-3b707b968d3f.jpg)
+
+---
+
 ## Suggested use
 
 Use these docs as:
@@ -56,6 +76,12 @@ Use these docs as:
 - guardrails for agentic workflows
 - a knowledge base for writing **original code only**
 
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/6102d2ca-99f6-40f8-9270-12069d9dab49.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/6102d2ca-99f6-40f8-9270-12069d9dab49.jpg)
+
+---
+
 ## Clean-room rules
 
 - Do not copy proprietary code.
@@ -64,7 +90,11 @@ Use these docs as:
 - Record **problem → pattern → tradeoffs → original implementation**.
 - Prefer fresh experiments, benchmarks, and adversarial tests over imitation.
 
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/Gemini_Generated_Image_ib7m8sib7m8sib7m.png](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/Gemini_Generated_Image_ib7m8sib7m8sib7m.png)
+
+---
 
 ## Source notes
 
@@ -89,7 +119,11 @@ https://cheatsheetseries.owasp.org/cheatsheets/AI_Agent_Security_Cheat_Sheet.htm
 [R7] OWASP Cheat Sheet, *Secure AI Model Ops Cheat Sheet*  
 https://cheatsheetseries.owasp.org/cheatsheets/Secure_AI_Model_Ops_Cheat_Sheet.html
 
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/6ba83f82-8dec-4d49-85ab-36348802056d.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/6ba83f82-8dec-4d49-85ab-36348802056d.jpg)
+
+---
 
 ## Expansion pack added
 
@@ -114,6 +148,12 @@ These new files go beyond summary notes. They add:
 - eval/red-team plans
 - project-specific branches for world engines, companions, and coding agents
 - original theories worth testing rather than merely copying patterns
+
+---
+
+![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/ab248a31-bab4-4818-b627-b45972b63d7c.jpg](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/ab248a31-bab4-4818-b627-b45972b63d7c.jpg)
+
+---
 
 
 ## Third-wave expansion pack added
@@ -141,6 +181,7 @@ These files add:
 - claim-level truth calibration to reduce confabulation
 - a persona compiler that assembles scene-specific character runtime packets
 
+---
 
 ## Fourth-wave implementation pack added
 
@@ -161,4 +202,8 @@ These files add:
 - a typed MicroRAG pipeline for smaller models with contradiction-aware packet assembly
 - an eval harness for false memory, canon drift, code-truth integrity, and prompt injection resistance
 
+---
+
 ![https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/efda5776-58ee-41fb-a53a-995758e03022.png](https://raw.githubusercontent.com/hrabanazviking/coolvikingstuff/refs/heads/development/efda5776-58ee-41fb-a53a-995758e03022.png)
+
+---
