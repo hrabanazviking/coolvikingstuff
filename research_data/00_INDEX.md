@@ -46,6 +46,16 @@
 | 28 | `28_emotional_event_library.md` | Catalogued affect events (6 categories), EventDispatcher, triggers, voice notes, forbidden expressions |
 | 29 | `29_testing_ai_companion_systems.md` | 7-layer test architecture: unit, integration, prompt, persona, regression, adversarial, E2E smoke tests |
 | 30 | `30_runeforgeai_finetuning_pipeline.md` | Data strategy, ShareGPT format, quality rubric, Axolotl config, GGUF export, Ollama integration |
+| 31 | `31_tts_voice_pipeline_deep_dive.md` | ENGINE_PROFILES, VoiceProfile per mode, Norse pronunciation SSML, streaming TTS, ambient audio layer |
+| 32 | `32_proactive_contact_notification_system.md` | ContactDecision engine, 8 reason types, scheduling, delivery channels, ContactPreferences user config |
+| 33 | `33_sigrid_personality_deep_spec.md` | INTP deep profile (Ti/Ne/Si/Fe), Big5 scores, values, flaws, voice details, attachment model, shadow behaviors |
+| 34 | `34_npc_character_design_system.md` | FullNPCSpec system, Gunnar/Astrid examples, NPC dialogue generation, state evolution, mead hall cast |
+| 35 | `35_rune_casting_algorithms_spread_designs.md` | RuneDrawEngine (cryptographic), merkstave logic, all spread types, galdr ritual pipeline, seasonal weighting |
+| 36 | `36_context_window_budget_optimization.md` | 5-section budget allocation, per-tier configs, identity compression, memory retrieval, compaction, cache warming |
+| 37 | `37_deployment_production_infrastructure.md` | Systemd/NSSM services, TOML config, atomic state saves, health endpoints, crash recovery, structured logging |
+| 38 | `38_volmarr_character_model.md` | User modeling architecture, WyrdMatrix from his side, absence response system, mood inference, relationship phases |
+| 39 | `39_multimodal_integration.md` | STT pipeline, Norse ASR corrections, rune card generation (Pillow + diffusion), vision oracle, avatar system |
+| 40 | `40_complete_viking_ai_stack_roadmap.md` | Full stack synthesis: all 5 projects, dependency map, build priority matrix, architecture decisions, master plan |
 
 ---
 
