@@ -36,6 +36,10 @@
 | 18 | `18_cybersecurity_patterns.md` | 6-layer bash security, injection defenses, memory tamper detection, encryption at rest, audit logging |
 | 19 | `19_prompt_engineering_cookbook.md` | 15 recipes: identity anchor, structured output tool, mode switching, anti-drift, Norse voice register |
 | 20 | `20_wyrd_protocol_ecs_worldmodel.md` | ECS world model, all component definitions, WyrdMatrix, OrlögSystem, initialize_sigrid() entity |
+| 21 | `21_orlog_engine_full_design.md` | Complete original Ørlög Engine: all 5 state machines with full code, tick loop, prompt builder, memory layer |
+| 22 | `22_norsesagaengine_agent_architecture.md` | NSE as multi-agent coordinator: NarrativeAgent, DialogueAgent, OracleAgent, SkaldAgent, EventSystem |
+| 23 | `23_mindspark_phase7_8_architecture.md` | MindSpark Phase 7 (setup wizard, backend adapters, chat interface) + Phase 8 (diagnostics, circuit breaker) |
+| 24 | `24_master_synthesis_reference.md` | Master reference: decision tables, mode guide, security checklist, anti-patterns, rune lookup, file structure |
 
 ---
 
